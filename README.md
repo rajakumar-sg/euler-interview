@@ -1,7 +1,7 @@
 
 Problem Statement
 --------
-By starting at the top of the eulerTriangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23.
+By starting at the top of the triangle of numbers below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23.
 
 ```
     3
